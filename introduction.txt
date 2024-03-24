@@ -1,0 +1,20 @@
+You need to select your character,
+There are 4 characters that you can choose from with their stats and abilities.
+You will fight monsters and explore, so choose wisely.
+
+HP is your health, if it goes to 0 you die.
+
+MANA is used for abilities.
+
+Attack is your maximum damage, all damage is random.
+
+Spirit is your maximum heaing in battle, witch is also random 
+
+Characters have different abilities. You will get those as you level up.
+
+Ultimate ability is the most powerfull!. However it uses the most mana,
+and you have a coldown to use it.
+
+
+
+

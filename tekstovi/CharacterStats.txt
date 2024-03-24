@@ -1,0 +1,29 @@
+Choose your character :
+
+WARRIOR:
+HP:45,    MANA:10,    Attack:7,    Spirit:3
+1.Spell:
+2.Spell:	
+Ulti:	
+Passive:
+
+
+MAGE:
+HP:25,    MANA:25,    Attack:5,    Spirit:5
+1.Spell:
+2.Spell:	
+Ulti:
+Passive:
+
+
+ROGUE:
+HP:30,    MANA:15,    Attack:12,    Spirit:4
+1.Spell:
+2.Spell:	
+Ulti:
+Passive:
+
+
+
+
+

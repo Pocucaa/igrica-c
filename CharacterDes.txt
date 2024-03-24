@@ -1,0 +1,9 @@
+Warrior is classical brute force, durable and dependant on stats.
+He gains more attack if he falls bellow 50% HP!
+
+Mage focuses on spells and his usage of mana.
+He can regenerate mana more quickly!
+
+Rogue deals a lot of damage, but he is squishy.
+He has a chanse to critica strike!
+
